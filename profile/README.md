@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<!--
+## 📂 Commit convention-
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| prefix   | definition                                                      |
+|----------|-----------------------------------------------------------------|
+| feat     | 새로운 기능을 추가할 경우                                        |
+| fix      | 기능을 수정하는 경우                                             |
+| chore    | 프로젝트를 설정하는 경우                                         |
+| ui       | UI, 스타일 관련 파일 추가 및 수정                               |
+| build    | 빌드 관련 수정                                                  |
+| ci       | CI 관련 설정 수정                                               |
+| docs     | 문서 파일 추가 및 수정                                           |
+| style    | 코드 스타일, 포맷팅에 대한 수정                                 |
+| refactor | 기능의 변화가 아닌 코드 리팩터링 (예: 변수 이름 변경)           |
+| test     | 테스트 코드 추가/수정                                           |
+| release  | 버전 릴리즈                                                      |
