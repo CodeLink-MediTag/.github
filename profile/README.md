@@ -23,5 +23,5 @@ feat: 로그인 구현 기능
 feat/1-login-feature
 
 ## 깃 커밋
-feat: 로그인 구현 기능 #1
+feat(auth): 로그인 구현 기능 #1
 
